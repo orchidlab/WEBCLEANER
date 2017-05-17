@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "438537555374",
+    "firebase_url": "https://projects-of-2017.firebaseio.com",
+    "project_id": "projects-of-2017",
+    "storage_bucket": "projects-of-2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438537555374:android:ab60fbeffd3108fe",
+        "android_client_info": {
+          "package_name": "com.rabbi.batterylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438537555374-b19giarchbbj4cpe73fjeicep9mcslkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHo6lAERApQh6uBtE7kkjwcZgVZLGbO8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438537555374:android:36abc063dd86f8a2",
+        "android_client_info": {
+          "package_name": "com.rabbi.webcleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438537555374-b19giarchbbj4cpe73fjeicep9mcslkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHo6lAERApQh6uBtE7kkjwcZgVZLGbO8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
